@@ -1,0 +1,11 @@
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\bin\Debug\Character Generator.exe.config
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character Generator.vbprojResolveAssemblyReference.cache
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character_Generator.MainFrm.resources
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character_Generator.Resources.resources
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character Generator.vbproj.GenerateResource.Cache
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character Generator.xml
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\bin\Debug\Character Generator.exe
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\bin\Debug\Character Generator.pdb
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\bin\Debug\Character Generator.xml
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character Generator.exe
+C:\Users\Simon_Templar\Desktop\Character Generator\Character Generator\obj\Debug\Character Generator.pdb
